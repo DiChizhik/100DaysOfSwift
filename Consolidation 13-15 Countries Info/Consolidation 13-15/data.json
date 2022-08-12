@@ -1,0 +1,202 @@
+[
+  {
+    "Rank": 1,
+    "name": "China",
+    "pop2022": "1448471.4000",
+    "pop2021": "1444216.1070",
+    "GrowthRate": "1.0029",
+    "area": 9706961,
+    "Density": "149.2199",
+    "capital": "Beijing"
+  },
+  {
+    "Rank": 2,
+    "name": "India",
+    "pop2022": "1406631.7760",
+    "pop2021": "1393409.0380",
+    "GrowthRate": "1.0095",
+    "area": 3287590,
+    "Density": "427.8611",
+    "capital": "Dehli"
+  },
+  {
+    "Rank": 3,
+    "name": "United States",
+    "pop2022": "334805.2690",
+    "pop2021": "332915.0730",
+    "GrowthRate": "1.0057",
+    "area": 9372610,
+    "Density": "35.7217",
+    "capital": "Washington, D.C."
+  },
+  {
+    "Rank": 4,
+    "name": "Indonesia",
+    "pop2022": "279134.5050",
+    "pop2021": "276361.7830",
+    "GrowthRate": "1.0100",
+    "area": 1904569,
+    "Density": "146.5605",
+    "capital": "Jakarta"
+  },
+  {
+    "Rank": 5,
+    "name": "Pakistan",
+    "pop2022": "229488.9940",
+    "pop2021": "225199.9370",
+    "GrowthRate": "1.0190",
+    "area": 881912,
+    "Density": "260.2176",
+    "capital": "Islamabad"
+  },
+  {
+    "Rank": 6,
+    "name": "Nigeria",
+    "pop2022": "216746.9340",
+    "pop2021": "211400.7080",
+    "GrowthRate": "1.0253",
+    "area": 923768,
+    "Density": "234.6335",
+    "capital": "Abuja"
+  },
+  {
+    "Rank": 7,
+    "name": "Brazil",
+    "pop2022": "215353.5930",
+    "pop2021": "213993.4370",
+    "GrowthRate": "1.0064",
+    "area": 8515767,
+    "Density": "25.2888",
+    "capital": "Brazilia"
+  },
+  {
+    "Rank": 8,
+    "name": "Bangladesh",
+    "pop2022": "167885.6890",
+    "pop2021": "166303.4980",
+    "GrowthRate": "1.0095",
+    "area": 147570,
+    "Density": "1137.6682",
+    "capital": "Dhaka"
+  },
+  {
+    "Rank": 9,
+    "name": "Russia",
+    "pop2022": "145805.9470",
+    "pop2021": "145912.0250",
+    "GrowthRate": "0.9993",
+    "area": 17098242,
+    "Density": "8.5275",
+    "capital": "Moscow"
+  },
+  {
+    "Rank": 10,
+    "name": "Mexico",
+    "pop2022": "131562.7720",
+    "pop2021": "130262.2160",
+    "GrowthRate": "1.0100",
+    "area": 1964375,
+    "Density": "66.9744",
+"capital": "Mexico City"
+  },
+  {
+    "Rank": 11,
+    "name": "Japan",
+    "pop2022": "125584.8380",
+    "pop2021": "126050.8040",
+    "GrowthRate": "0.9963",
+    "area": 377930,
+    "Density": "332.2966",
+"capital": "Tokyo"
+  },
+  {
+    "Rank": 12,
+    "name": "Ethiopia",
+    "pop2022": "120812.6980",
+    "pop2021": "117876.2270",
+    "GrowthRate": "1.0249",
+    "area": 1104300,
+    "Density": "109.4021",
+"capital": "Addis Ababa"
+  },
+  {
+    "Rank": 13,
+    "name": "Philippines",
+    "pop2022": "112508.9940",
+    "pop2021": "111046.9130",
+    "GrowthRate": "1.0132",
+    "area": 342353,
+    "Density": "328.6345",
+"capital": "Manila"
+  },
+  {
+    "Rank": 14,
+    "name": "Egypt",
+    "pop2022": "106156.6920",
+    "pop2021": "104258.3270",
+    "GrowthRate": "1.0182",
+    "area": 1002450,
+    "Density": "105.8972",
+"capital": "Cairo"
+  },
+  {
+    "Rank": 15,
+    "name": "Vietnam",
+    "pop2022": "98953.5410",
+    "pop2021": "98168.8330",
+    "GrowthRate": "1.0080",
+    "area": 331212,
+    "Density": "298.7619",
+"capital": "Hanoi"
+  },
+  {
+    "Rank": 16,
+    "name": "DR Congo",
+    "pop2022": "95240.7920",
+    "pop2021": "92377.9930",
+    "GrowthRate": "1.0310",
+    "area": 2344858,
+    "Density": "40.6169",
+"capital": "Kinshasa"
+  },
+  {
+    "Rank": 17,
+    "name": "Iran",
+    "pop2022": "86022.8370",
+    "pop2021": "85028.7590",
+    "GrowthRate": "1.0117",
+    "area": 1648195,
+    "Density": "52.1921",
+"capital": "Tehran"
+  },
+  {
+    "Rank": 18,
+    "name": "Turkey",
+    "pop2022": "85561.9760",
+    "pop2021": "85042.7380",
+    "GrowthRate": "1.0061",
+    "area": 783562,
+    "Density": "109.1962",
+"capital": "Istambul"
+  },
+  {
+    "Rank": 19,
+    "name": "Germany",
+    "pop2022": "83883.5960",
+    "pop2021": "83900.4730",
+    "GrowthRate": "0.9998",
+    "area": 357114,
+    "Density": "234.8930",
+"capital": "Berlin"
+  },
+  {
+    "Rank": 20,
+    "name": "Thailand",
+    "pop2022": "70078.2030",
+    "pop2021": "69950.8500",
+    "GrowthRate": "1.0018",
+    "area": 513120,
+    "Density": "136.5727",
+"capital": "Bangkok"
+  }
+]
